@@ -1,2 +1,3 @@
-# BasicProgramming
-repository for basic programming by JAVA
+# practice_BOJ
+
+practice for java and programming by 'solved.ac'
