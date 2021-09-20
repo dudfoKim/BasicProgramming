@@ -1,3 +1,7 @@
+https://yoloaeee.tistory.com/106
+
+=================================================================
+
 import java.util.Scanner;
 
 public class Main
